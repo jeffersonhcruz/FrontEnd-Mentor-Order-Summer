@@ -143,23 +143,28 @@
 
 	.container{
 
-		height: 100%;
-	}
-
-	.container__card {
-
-		max-width: 400px;
+		height: 130vh;
 	}
 
 	.container__section{
 
-		max-width: 400px;
+		height: 70vh;
+	}
+
+	.titulo {
+
+		font-size: 1.1rem;
+	}
+
+	.frase {
+
+		font-size: .8rem;
 	}
 
 	.container__conteudo{
 
-		width: 80%;
-		
+		margin-bottom: 1.2rem;
 	}
+
 }
 
