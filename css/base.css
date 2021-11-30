@@ -54,6 +54,10 @@ body {
 
 	main{
 
+		width: 100%;
+		max-width: 1024px;
+		margin: 0 auto;
+
 		background-image: url(../images/pattern-background-desktop.svg);
 		background-color: var(--Pale_blue);
 		background-repeat: no-repeat;
